@@ -1,2 +1,2 @@
 # hello-world
-testing
+Hei hei hele verden, nå skal jeg lære meg programmering!
